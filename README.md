@@ -12,10 +12,13 @@ Meu nome é Gabriel Matos Braga, 39 anos, trabalho com logística, porém estou 
   - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node" width=9% height=30px/>
   - <p>SOFT SKILS</p>
   <br>
-    <br>
+  <br>
+
     
  [![Gabriel stats](https://github-readme-stats.vercel.app/api?username=GabrielMB13)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
+<br>
+<br>
 [![Gabriel Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMB13)](https://github.com/anuraghazra/github-readme-stats)
   
 
