@@ -1,6 +1,6 @@
 ## Olá!
 
-Meu nome é Gabriel Matos Braga, 39 anos, trabalho com logística, porém estou começando a migrar para a área de programação, e para tal já dei início ao curso de formação full stack do Rodolfo Mori, o <a href="https://www.youtube.com/c/RodolfoMori">DevClub</a>, onde estou aprendendo a realizar projetos com as tecnologias:
+Meu nome é Gabriel Matos Braga, 39 anos, trabalho com logística, porém estou começando a migrar para a área de programação, e para tal já dei início ao curso de formação full stack do Rodolfo Mori, o <a href="https://www.youtube.com/c/RodolfoMori" target="_blank">DevClub</a>, onde estou aprendendo a realizar projetos com as tecnologias:
   <br>
   <br>
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" width=9% height=30px/>
